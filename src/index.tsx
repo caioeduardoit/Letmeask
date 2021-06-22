@@ -3,6 +3,10 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './services/firebase';
 
+//Estilização
+import './styles/global.scss';
+import './styles/auth.scss';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
