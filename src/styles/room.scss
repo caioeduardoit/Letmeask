@@ -35,14 +35,15 @@
       align-items: center;
 
       h1 {
-        font-family: 'Poppins', sans-serif;
+        font-family: "Poppins", sans-serif;
         font-size: 24px;
         color: #29292e;
       }
 
       span {
         margin-left: 16px;
-        background: #e559f9;
+        // background: #e559f9;
+        background: #a239ea;
         border-radius: 9999px;
         padding: 8px 16px;
         color: #fff;
@@ -95,7 +96,8 @@
           button {
             background: transparent;
             border: 0;
-            color: #835afd;
+            // color: #835afd;
+            color: #5c33f6;
             text-decoration: underline;
             font-size: 14px;
             font-weight: 500;
@@ -107,6 +109,23 @@
 
     .question-list {
       margin-top: 32px;
+    }
+
+    .empty-questions {
+      margin-top: 6rem;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      align-items: stretch;
+      text-align: center;
+
+      > img {
+        align-self: center;
+      }
+
+      p {
+        margin-top: 32px;
+      }
     }
   }
 }

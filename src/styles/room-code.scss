@@ -3,13 +3,15 @@
   border-radius: 8px;
   overflow: hidden;
   background: #fff;
-  border: 1px solid #835afd;
+  // border: 1px solid #835afd;
+  border: 1px solid #5C33F6;
   cursor: pointer;
   display: flex;
   align-items: stretch;
 
   div {
-    background: #835afd;
+    // background: #835afd;
+    background: #5C33F6;
     padding: 0 12px;
     display: flex;
     justify-content: center;
