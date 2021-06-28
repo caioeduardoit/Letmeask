@@ -82,5 +82,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Desenvolvido por <Caio /> 🦾💻
+Desenvolvido por Caio 🦾💻
 Projeto criado na sexta edição da NLW da Rockeatseat 🚀
