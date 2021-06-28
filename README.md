@@ -36,7 +36,7 @@ Fique a vontade para testar a aplicação, todo feedback é bem-vindo! 😃
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [ReactJS](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
